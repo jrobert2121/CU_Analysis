@@ -7,7 +7,7 @@ Analyze credit union data on the National Credit Union Administation's website a
 ### Credit Cards
 MSUFCU has a significant number of unsecured credit card loans in their lending portfolio. 38.7% of the total number of loans is compromised of credit cards.  The delinquency in this portfolio is quite low at .52%.  Credit cards have rebounded for MSUFCU over Q1 2021, which saw a substantial downturn from Q1 in 2020 and 2019.  This appears to be consistent with Michigan credit unions over $3B in assets.
 
-![Q1_CC_dollars](CU_Analysis/Images/Q1_CC_dollars.png)
+![Q1_CC_dollars](Images/Q1_CC_dollars.png)
 
 MSUFCU members tend to carry a higher balance, despite MSUFCU reporting the highest interest rate of the measured credit unions.  In fact, the Q1 interest rate is 800 basis points higher than the reported Q1 2021 rate for MSUFCU.  It is unknown if this is a reporting error or an intential rate increase.  If the rate increase was intential, then it would indicate that members are likely using the MSUFCU credit card for value added benefits despite the higher rate.  Yet, it may also be a deterent for many as MSUFCU has over $1B in unfunded credit card lines.
 
